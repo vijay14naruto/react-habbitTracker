@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-habbitTracker/static/css/main.fb4c44c8.css",
+    "main.js": "/react-habbitTracker/static/js/main.0d40e531.js",
+    "static/media/addhabit.png": "/react-habbitTracker/static/media/addhabit.09853faf537583be0485.png",
+    "static/media/logo.png": "/react-habbitTracker/static/media/logo.c922445a32d855eb3073.png",
+    "static/media/CenterImage.jpg": "/react-habbitTracker/static/media/CenterImage.d6f0c4ca164891167693.jpg",
+    "index.html": "/react-habbitTracker/index.html",
+    "main.fb4c44c8.css.map": "/react-habbitTracker/static/css/main.fb4c44c8.css.map",
+    "main.0d40e531.js.map": "/react-habbitTracker/static/js/main.0d40e531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4c44c8.css",
+    "static/js/main.0d40e531.js"
+  ]
+}
